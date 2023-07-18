@@ -1,7 +1,7 @@
 body{
 	background-color: #cccccc;
 }
-h1{
+h2{
 	text-align: center;
 }
 .player_one{
@@ -13,7 +13,10 @@ h1{
 	color: black;
 }
 .player_two{
-	text-align: center;
+	background-color:rgb(255, 255, 255);
+}
+.player_two video,audio{
+	width: 100%
 }
 
 
