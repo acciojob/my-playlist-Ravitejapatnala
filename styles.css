@@ -4,6 +4,9 @@ body{
 h2{
 	text-align: center;
 }
+h1{
+	text-align: center;
+}
 .player_one{
 	background-color: white;
 	padding: 10px
